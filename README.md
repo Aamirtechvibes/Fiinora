@@ -1,7 +1,7 @@
 
   # Fintech App Fiinora
 
-  This is a code bundle for Fintech App Fiinora. The original project is available at https://www.figma.com/design/OSeRJyApo6THC1YJk51Kyr/Fintech-App-Fiinora.
+  This is a code bundle for Fintech App Fiinora. The original project is available at
 
   ## Running the code
 
